@@ -10,10 +10,10 @@ Technology used : Unity
 
 Things done so far.
 Initial commit:
--Creating the map,
--Creating hit animations
--Creating movement and decese animations
--Creating 3 types of foes
--Creating checkpoints for the road
--Assuring that enemies follow the road
--Managing colisions between foes and checkpoints
+  Creating the map,
+  Creating hit animations,
+  Creating movement and decease animations,
+  Creating 3 types of foes,
+  Creating checkpoints for the road,
+  Assuring that enemies follow the road,
+  Managing colisions between foes and checkpoints,
