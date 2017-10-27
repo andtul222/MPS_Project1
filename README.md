@@ -14,6 +14,7 @@ Technology used : Unity
 
 Things done so far.
 Initial commit:
+
   Creating the map,
   
   Creating hit animations,
