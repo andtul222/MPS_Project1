@@ -1,9 +1,13 @@
 # MPS_Project1
-Team
-Andrei Tulus - Project Manager
-Popescu Teodor - Team Leader
-Cheles Bogdan - Dev
-Badea Filip - Dev
+Team :
+
+  Andrei Tulus - Project Manager
+  
+  Popescu Teodor - Team Leader
+  
+  Cheles Bogdan - Dev
+  
+  Badea Filip - Dev
 
 Objectives - creating a game resembling tower defence using a technolog/framework of choice. 
 Technology used : Unity
