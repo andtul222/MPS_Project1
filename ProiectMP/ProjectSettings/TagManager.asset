@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Checkpoint
   - Enemy
+  - BuildSide
+  - GroundSide
+  - Tower
+  - BuildSideFull
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -42,4 +47,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Units
+    uniqueID: 2848470539
     locked: 0
